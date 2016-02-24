@@ -1,23 +1,10 @@
-Boron  [![npm version](https://badge.fury.io/js/boron2.svg)](http://badge.fury.io/js/boron2)
+Boron2  [![npm version](https://badge.fury.io/js/boron2.svg)](http://badge.fury.io/js/boron2)
 =====
 
-A collection of dialog animations with React.js.
+A collection of dialog animations with React.js based on [yuanyan/boron](https://github.com/yuanyan/boron)
 
 * React 0.14+ Use `boron 0.2`
 * React 0.12+ Use `boron 0.1`
-
-## Demo & Examples
-
-Live demo: [yuanyan.github.io/boron](http://yuanyan.github.io/boron/)
-
-To build the examples locally, run:
-
-```
-npm install
-gulp dev
-```
-
-Then open [`localhost:9999`](http://localhost:9999) in a browser.
 
 ## Installation
 
