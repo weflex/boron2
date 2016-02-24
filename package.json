@@ -1,13 +1,13 @@
 {
-  "name": "boron",
-  "version": "0.2.3",
+  "name": "boron2",
+  "version": "0.3.0",
   "description": "A collection of dialog animations with React.js",
   "main": "Boron.js",
   "author": "Yuanyan Cao",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yuanyan/boron.git"
+    "url": "https://github.com/weflex/boron2.git"
   },
   "dependencies": {
     "domkit": "^0.0.1"
